@@ -1,0 +1,18 @@
+img{
+  border-radius: 20px;
+  width: 13cm;
+  height: 5cm;
+}
+.iconos .glyphicon{
+  font-size: 35px;
+  color: gray;
+}
+.navtop{
+  padding-top: 7px;
+}
+.conFixTop{
+  padding-top: 100px;
+}
+.styleFotter p{
+  color: white;
+}
